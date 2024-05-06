@@ -21,7 +21,7 @@ links.forEach(function(link){
         content.classList.add("animate__animated");
 
         setTimeout(function(){
-            location.href = "/abraham/boletines";
+            location.href = "/";
         },600);
         //setInterval
         
